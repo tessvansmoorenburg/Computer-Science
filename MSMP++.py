@@ -24,12 +24,12 @@ random.seed(RND)
 np.random.seed(RND)
 PRIME = 2_147_483_647  # Mersenne prime for MinHash
 
-# --- MSM Hyperparameters (Globals - will be overwritten dynamically) ---
-EPSILON = 0.522
-MU = 0.65
-ALPHA = 0.602
+# --- MSM Hyperparameters optimized (Globals - will be overwritten dynamically) ---
+EPSILON = 0.452 
+MU = 0.8
+ALPHA = 0.572
 BETA = 0.0
-GAMMA = 0.756
+GAMMA = 0.9
 
 # --- Bootstrap & Performance Settings ---
 NUM_BOOTSTRAPS = 5
