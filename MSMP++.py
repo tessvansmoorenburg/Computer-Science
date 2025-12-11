@@ -783,7 +783,7 @@ def set_global_params(params_dict):
 
 if __name__ == "__main__":
     # >>>>> CONFIGURATION: SET YOUR DATA PATH HERE <<<<<
-    JSON_PATH = "/Users/tesssmoorenburg/Downloads/TVs-all-merged.json"  
+    JSON_PATH = "TVs-all-merged.json"  
     
     print(">>> Loading Data...")
     products = load_products_from_json(JSON_PATH)
