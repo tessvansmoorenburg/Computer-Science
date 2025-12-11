@@ -36,5 +36,17 @@ https://personal.eur.nl/frasincar/datasets/TVs-all-merged.zip
 - Scikit-Learn: clustering
 - Bayesian Optimization (bayes_opt): hyperparameter optimization
 
-## License
-This project is licensed under the MIT License 
+## Related Work 
+This code improves and builds on the ideas of the following related papers:
+- van Bezu, R., Borst, S., Rijkse, R., Verhagen, J., Frasincar, F., Vandic, D.: Multi-
+component similarity method for web product duplicate detection. In: 30th Sympo-
+sium on Applied Computing (SAC 2015). pp. 761–768. ACM (2015
+- van Dam, I., van Ginkel, G., Kuipers, W., Nijenhuis, N., Vandic, D., Frasincar, F.:
+Duplicate detection in web shops using LSH to reduce the number of computations.
+In: 31th ACM Symposium on of Applied Computing (SAC 2016). pp. 772–779. ACM
+(2016)
+- Hartveld, A., Keulen, M., Mathol, D., Noort, T., Plaatsman, T., Frasincar, F.,
+Schouten, K.: An LSH-Based Model-Words-Driven Product Duplicate Detection
+Method, pp. 409–423 (05 2018)
+
+
